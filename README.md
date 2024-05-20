@@ -1,5 +1,9 @@
 # Blocks by Rich Tabor
 
+## [Dark Mode Toggle Block](https://github.com/richtabor/dark-mode-toggle-block)
+
+A WordPress block for toggling between between light and dark appearances on your site. [Learn more.]([url](https://rich.blog/dark-mode-toggle-block/))
+
 ## [Todo List Block](https://github.com/richtabor/todo-list-block)
 ![WordPress Plugin Active Installs](https://img.shields.io/wordpress/plugin/installs/todo-list-block?color=%23007cba&label=Active%20Installs&logo=wordpress&style=flat-square)
 
